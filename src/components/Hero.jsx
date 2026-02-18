@@ -37,7 +37,7 @@ const Hero = () => {
             <a href="#contact" className="px-8 py-4 bg-slate-900 dark:bg-white text-white dark:text-slate-900 text-sm font-bold uppercase tracking-wider hover:bg-slate-800 dark:hover:bg-slate-200 transition-all flex items-center gap-2 shadow-lg shadow-indigo-500/20">
               Initiate Contact <ArrowRight size={16} />
             </a>
-            <a href="#" className="px-8 py-4 bg-transparent border-2 border-slate-900 dark:border-white text-slate-900 dark:text-white text-sm font-bold uppercase tracking-wider hover:bg-slate-900 hover:text-white dark:hover:bg-white dark:hover:text-slate-900 transition-all flex items-center gap-2">
+            <a href="/resume.pdf" download="Abhishek_Singh_Resume.pdf" className="px-8 py-4 bg-transparent border-2 border-slate-900 dark:border-white text-slate-900 dark:text-white text-sm font-bold uppercase tracking-wider hover:bg-slate-900 hover:text-white dark:hover:bg-white dark:hover:text-slate-900 transition-all flex items-center gap-2">
               Download CV <Download size={16} />
             </a>
           </div>
